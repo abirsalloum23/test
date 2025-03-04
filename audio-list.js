@@ -1,0 +1,1 @@
+window.PRECACHE_AUDIOS = ["assets/audios/700_snd_null2.mp3","assets/audios/clearWorkmat.mp3","assets/audios/click.mp3","assets/audios/correct.mp3","assets/audios/drop.mp3","assets/audios/erase.mp3","assets/audios/incorrect.mp3","assets/audios/transition.mp3"]
